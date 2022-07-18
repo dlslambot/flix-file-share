@@ -1,6 +1,6 @@
 {
-  "name": "TG File Share/Sharing Bot",
-  "description": "file sharing bot store posts and it can access by special links",
+  "name": "Flix Cinema File Store Bot",
+  "description": "Official File Store Bot Of Flix Cinema",
   "keywords": [
     "telegram",
     "file",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "5249338053"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -35,7 +35,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first}\n\nI Am The Official File Store Bot Of Flix Cinema."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
